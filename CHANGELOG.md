@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.6.9](https://github.com/detatsatrio/code-push-cli/compare/v2.6.5...v2.6.9) (2024-12-12)
+
+
+### Bug Fixes
+
+* collaborator list ([dc4315d](https://github.com/detatsatrio/code-push-cli/commit/dc4315d39f2941d013f853518ed6dca943edbf94))
+
 ### [2.6.5](https://github.com/shm-open/code-push-cli/compare/v2.6.4...v2.6.5) (2024-02-28)
 
 ### [2.6.4](https://github.com/shm-open/code-push-cli/compare/v2.6.3...v2.6.4) (2024-02-23)
